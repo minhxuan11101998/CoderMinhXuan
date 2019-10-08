@@ -1,0 +1,31 @@
+
+@font-face {
+	font-family: minhxuanfont;
+	src: url('../fonts/DancingScript-Regular.ttf');
+}
+
+
+ul {
+	display: inline;
+	list-style-type: none;
+}
+
+ul li  {
+float: left;
+}
+ul li a {
+	float: left;
+	font-size: 35px;
+	margin-left: 20px;
+	text-decoration:none;
+	color: blue;
+	font-family: minhxuanfont;
+
+	
+
+}
+
+ul li a:hover {
+	color:red;
+
+}

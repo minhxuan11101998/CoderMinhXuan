@@ -1,0 +1,34 @@
+@font-face {
+	font-family: minhxuanfont1;
+	src: url('../fonts/GreatVibes-Regular.ttf');
+}
+ul {
+  background: #8AD385;
+  width: 250px;
+  padding: 0;
+  list-style-type: none;
+  text-align: left;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+ul li {
+
+
+  line-height: 40px;
+  border-bottom: 1px solid #e8e8e8;
+  padding-left: 15px;
+  font-size: 20px;
+  font-family: minhxuanfont1;
+ 
+}
+
+
+
+
+
+ li:hover {
+  color: orange;
+  font-size: 25px;
+  font-family: 'Dancing Script', cursive;
+}
